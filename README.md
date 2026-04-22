@@ -4,7 +4,7 @@
 
 Lavandev is a full-service development agency specializing in building
 scalable web applications, mobile apps, SaaS platforms, e-commerce solutions,
-and AI-powered systems — from concept to deployment.
+and AI-powered systems, from concept to deployment.
 
 ---
 
